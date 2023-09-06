@@ -1,0 +1,26 @@
+.historycontainer {
+        margin-left: 50px;
+    }
+
+.header {
+        font-size: 35px;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+}
+
+.logEntry {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .logEntryItem {
+    margin-right: 15px;
+  }
+
+
+.listcontainer {
+    border: 3px solid #00b7ff; 
+    border-radius: 5px; 
+    margin-bottom: 10px; 
+    padding: 15px; 
+}
